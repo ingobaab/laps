@@ -1,3 +1,13 @@
+ * Plugin Name: Profile Panel
+ * Plugin URI: https://github.com/ingobaab/laps
+ * Description: A lightweight profile panel for WordPress.
+ * Author: Ingo Baab
+ * Version: 3.3.5
+ * Author URI: https://www.baab.de/
+ * Requires PHP: 7.1.3
+ * Update URI: false
+ * License: GPLv2
+
 GNU GENERAL PUBLIC LICENSE Version 2, June 1991
 
 Copyright (C) 1989, 1991 Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
