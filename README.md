@@ -39,7 +39,7 @@ API requests need to be authenticated as admin for performance data to be sent. 
 
 | [Composer](https://getcomposer.org/) (recommended) | Release archive |  
 | -------------------------------------------------- | -------- |  
-| `composer require rarst/laps` | [![Download Laps](https://img.shields.io/badge/download-laps.zip-blue?style=for-the-badge)](https://github.com/Rarst/laps/releases/latest/download/laps.zip) |  
+| `composer require ingobaab/laps` | [![Download Laps](https://img.shields.io/badge/download-laps.zip-blue?style=for-the-badge)](https://github.com/ingobaab/laps/releases/latest/download/laps.zip) |  
 
 ## Tests
 
