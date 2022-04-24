@@ -1,6 +1,6 @@
 ![Laps v3 toolbar screenshot](https://i.imgur.com/NtgAxhp.png)
 
-# Laps — light WordPress profiler
+# Laps — Profile Panel for WordPress
 
 _Make a site, make it fast._
 
@@ -12,13 +12,13 @@ _Make a site, make it fast._
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/rarst/laps.svg)](https://packagist.org/packages/rarst/laps)
 [![Download Laps](https://img.shields.io/badge/download-laps.zip-blue)](https://github.com/Rarst/laps/releases/latest/download/laps.zip)
 
-Laps is a plugin that **shows performance information** about WordPress page load.
+Profile Panel for WordPress is a plugin that **shows performance information** about WordPress page load.
 
 It provides a visual summary in toolbar that is quick and easy to inspect.
 
 ## Page profiling
 
-Laps automatically tracks many events, such as:
+Profile Panel for WordPress automatically tracks many events, such as:
 - PHP, core, plugins, and themes load, main posts loop, sidebars
 - database queries (with [`SAVEQUERIES` defined constant set to true](https://wordpress.org/support/article/editing-wp-config-php/#save-queries-for-analysis))
 - network requests to other sites 
