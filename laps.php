@@ -1,15 +1,15 @@
 <?php
 
 /*
-Plugin Name: Laps
-Plugin URI: https://github.com/Rarst/laps
-Description: Light WordPress profiler.
-Author: Andrey “Rarst” Savchenko
+Plugin Name: WordPress Profiler
+Plugin URI: https://github.com/ingobaab/laps
+Description: WordPress Profiler.
+Author: Ingo Baab
 Version: 3.3.5
 Author URI: https://www.rarst.net/
 Requires PHP: 7.1.3
 Update URI: false
-License: MIT
+License: GPLv2
 */
 
 if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
