@@ -51,4 +51,4 @@ phpunit
 
 ## License
 
-MIT
+GPL v2
